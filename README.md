@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-📍 Based in Greater Noida, India .
+📍 Lives in Gorakhpur, India .
 
-🏦 I'm currently an undergraduate student at IEC College Of Engineering And Technology, Greater Noida.
+🏦 I'm currectly working in ACCENTURE.
 
-🌱 I’m currently learning Big Data.
+🌱 I’m currently learning Google Cloud.
 :cherry_blossom:
